@@ -1,4 +1,4 @@
-# Time_Series v RNN_GRU
+# ARIMA v RNN_GRU on real-valued time series predictions
 
 This project compares the accuracy of an Autoregressive Integrated Moving Average model and a Recurrent Neural Network based on Gated Recurrent Units (GRUs) with regards to real-valued time series prediction. The input will be a one week sequence of national hourly electric load demand data for Austria, and the output expected is a prediction of the following week's hourly load demand data. This approximation is solely based on a real-valued time series analysis of historical data.
 
