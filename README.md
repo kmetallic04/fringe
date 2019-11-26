@@ -36,10 +36,14 @@ or
 ```python time_series.py mape```
 
 
-The following graphs show the resultant predictions against the targets:
+The following graphs show the resultant predictions against the targets for the neural nets:
 
 ![256 recurrent units](https://github.com/kmetallic04/fringe/blob/master/images/1.png)
 
 ![128 recurrent units](https://github.com/kmetallic04/fringe/blob/master/images/2.png)
 
 ![64 recurrent units](https://github.com/kmetallic04/fringe/blob/master/images/3.png)
+
+The graph of the sample test of the autoregressive method is show below:
+
+![ARIMA 24 lag](https://github.com/kmetallic04/fringe/blob/master/images/4.png)
