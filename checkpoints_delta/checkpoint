@@ -1,0 +1,2 @@
+model_checkpoint_path: "gru_64_bs_16_sl_168_ep_50"
+all_model_checkpoint_paths: "gru_64_bs_16_sl_168_ep_50"
