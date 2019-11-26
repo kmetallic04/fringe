@@ -38,7 +38,7 @@ or
 
 The following graphs show the resultant predictions against the targets:
 
-![256 recurrent units](https://github.com/kmetallic04/fringe/tree/master/images/1.png)
+![256 recurrent units](https://github.com/kmetallic04/fringe/blob/master/images/1.png)
 
 ![128 recurrent units](https://github.com/kmetallic04/fringe/tree/master/images/2.png)
 
