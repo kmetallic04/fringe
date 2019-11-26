@@ -1,4 +1,4 @@
-# ARIMA v RNN_GRU on real-valued time series predictions
+# A comparison of ARIMA v RNN (GRU) on real-valued time series predictions
 
 This project compares the accuracy of an Autoregressive Integrated Moving Average model and a Recurrent Neural Network based on Gated Recurrent Units (GRUs) with regards to real-valued time series prediction. The input will be a one week sequence of national hourly electric load demand data for Austria, and the output expected is a prediction of the following week's hourly load demand data. This approximation is solely based on a real-valued time series analysis of historical data.
 
@@ -34,3 +34,12 @@ To calculate the average Mean Absolute Percentage Error on all test data:
 or
 
 ```python time_series.py mape```
+
+
+The following graphs show the resultant predictions against the targets:
+
+![256 recurrent units](https://github.com/kmetallic04/fringe/images/1.png)
+
+![128 recurrent units](https://github.com/kmetallic04/fringe/images/2.png)
+
+![64 recurrent units](https://github.com/kmetallic04/fringe/images/3.png)
