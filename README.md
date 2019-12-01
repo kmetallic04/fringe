@@ -47,3 +47,6 @@ The following graphs show the resultant predictions against the targets for the 
 The graph of the sample test of the autoregressive method is show below:
 
 ![ARIMA 24 lag](https://github.com/kmetallic04/fringe/blob/master/images/4.png)
+
+
+Autoregressive methods on average perform better than neural nets. The extra features offered by AI seem to be useful in tasks such as language processing. Equations are still better at math than neural nets.
